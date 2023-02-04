@@ -1,0 +1,38 @@
+---
+title: "Zool710-intro"
+author: "Chiyoko Onouye"
+formant:
+html:
+  toc:true
+---
+
+![](images/background-01.jpg){width="608"}
+
+\-\--
+
+## About Me
+
+![](images/Me.jpg){width="900"} {fig-align="right"} My name is Chiyoko Onouye, some call me Yoko. I was born and raised in Los Angeles, California. I received my undergraduate degree here at the University of Hawai'i at Manoa with a B.S. in Marine Biology and a B.A. in Japanese. I have done research on Coconut Island in Kaneohe Bay on coral and since then have work in Dr.Stuart Donachie's lab primarily doing work on microbial taxonomy. I've taken some classes on data analysis using different programs such as R, Edge Bioinformatics, Mr.Bayes, ClustalW, and some others. I am interested in toxin production in microorganisms and the how's and why's a species would need to produce the toxins in the first place. I hope to be able to use these tools learnt in this course to be able to better organize and anaylze my data.
+
+## Fun Facts
+
+1.  I love animals. I've grown up with cats, dogs, birds, turtles, hamsters, snakes, pretty much any animal you can get at the pet store!
+2.  I enjoy Japanese culture. I can play the koto, learning the shamisen, I've taken tea ceremony and flower arrangement. {{< video https://youtu.be/DHVPZ9m_e0s width="400" height="300">}}
+3.  I would consider myself a hard-core gamer. I've played pretty much all the pokemon games up until violet/scarlet. I play other mmoprgs such as League of Legends, Tera, FFXIV, and Lost Ark.
+4.  I am a vegetarian. I don't eat meat, seafood or eggs. But I do eat things that contain milk, cheese, and yogurt\--so I am not a vegan.
+5.  I've been dying my hair since high school\--so for about 19 years now!
+
+\-\--
+
+```{r}
+
+
+```
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
